@@ -1,14 +1,1 @@
 #lift calculator
-
-import os
-
-print("dont put in any exponents x^2 ect...")
-P = float(input("air density: "))
-V = float(input("enter velocity: ")) ** 2
-S = float(input("surface area:"))
-C = float(input("lift coeffeicent: "))
-os.system("clear")
-
-print(f"{P},{V},{S},{C},")
-result = P * V * S * C 
-print("lift:", result/2)
