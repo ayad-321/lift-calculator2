@@ -1,5 +1,16 @@
 # lift-calculator2
 
+
+
+
+
+
+
+
+
+
+
+
 import os
 
 print("dont put in any exponents x^2 ect...")
